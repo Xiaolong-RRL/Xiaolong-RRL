@@ -1,5 +1,5 @@
 # This the Github home of Xiaolong. Hope for the best of my papers in the feature. 😄
-<img align="middle" src="https://github-readme-stats.vercel.app/api?username=Xiaolong-RRL&show_icons=true&theme=onedark&count_private=true" />
+<img align="middle" src="https://github-readme-stats.vercel.app/api?username=Xiaolong-RRL&show_icons=true&theme=tokyonight&count_private=true" />
 
 <!-- ### Hi ther -->
 
