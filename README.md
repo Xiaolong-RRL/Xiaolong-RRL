@@ -1,4 +1,9 @@
-# This the Github home of Xiaolong. Hope for the best of my papers in the feature. 😄
+## Hi! Nice to see you~ 😄
+
+Welcome to my page.
+
+I'am Xiaolong, a master's student at Peking University, currently interesting in artificial intelligence and 3D multi-modal perception.
+
 <img align="middle" src="https://github-readme-stats.vercel.app/api?username=Xiaolong-RRL&show_icons=true&theme=tokyonight&count_private=true" />
 
 <!-- ### Hi ther -->
